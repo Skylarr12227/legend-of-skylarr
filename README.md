@@ -3,7 +3,7 @@
 A pocket-sized monster-taming adventure that runs in the browser. Play it at
 **https://skylarr12227.github.io/legend-of-skylarr/**
 
-This is the online version: it adds **VERSUS** battles against other players (find someone waiting in the lobby, or
+This is the online version: sign in with Discord to keep your game online, and battle in **VERSUS** against other players (find someone waiting in the lobby, or
 make a room and share its 4-letter code). Battles connect through Supabase Realtime; nothing is stored on a server,
 and your save stays in your own browser.
 
